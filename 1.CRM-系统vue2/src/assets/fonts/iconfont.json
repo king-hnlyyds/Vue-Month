@@ -1,0 +1,58 @@
+{
+  "id": "3967387",
+  "name": "员工关系",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "568549",
+      "name": "员工天地",
+      "font_class": "tube",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "924728",
+      "name": "账户",
+      "font_class": "user",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1680721",
+      "name": "部门管理",
+      "font_class": "structure",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "4194149",
+      "name": "员工管理",
+      "font_class": "userlist",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "6400627",
+      "name": "密码（1）",
+      "font_class": "psw",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "22768755",
+      "name": "部门管理",
+      "font_class": "department",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "26813582",
+      "name": "员工管理",
+      "font_class": "useradd",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    }
+  ]
+}
